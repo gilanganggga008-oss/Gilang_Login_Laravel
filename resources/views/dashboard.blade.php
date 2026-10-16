@@ -254,7 +254,7 @@
 
           <button onclick="bukaModalTambah()" class="bg-purple-600 hover:bg-purple-500 text-white text-xs font-semibold px-4 py-2 rounded-lg flex items-center justify-center gap-1.5 border border-purple-400/30 transition-all cursor-pointer flex-shrink-0">
             <span class="material-symbols-outlined text-base">add</span>
-            <span>Tambah Perangkat</span>
+            <span>Tambah Barang</span>
           </button>
         </div>
 
